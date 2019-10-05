@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.696cfb38.chunk.css",
+    "main.js": "/static/js/main.b2bd7a7c.chunk.js",
+    "main.js.map": "/static/js/main.b2bd7a7c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.7302273d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.7302273d.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6d48ee9c.chunk.js": "/static/js/2.6d48ee9c.chunk.js",
+    "static/js/2.6d48ee9c.chunk.js.map": "/static/js/2.6d48ee9c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f6bf55ae4606d1db97815c75cc21d7d1.js": "/precache-manifest.f6bf55ae4606d1db97815c75cc21d7d1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.696cfb38.chunk.css.map": "/static/css/main.696cfb38.chunk.css.map",
+    "static/media/profile.jpg": "/static/media/profile.800d9a44.jpg",
+    "static/media/Home.css": "/static/media/walkingbehind.ce4de1d9.jpg"
+  }
+}
