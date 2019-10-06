@@ -1,19 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.555ca855.chunk.css",
-    "main.js": "/static/js/main.480f8cb0.chunk.js",
-    "main.js.map": "/static/js/main.480f8cb0.chunk.js.map",
+    "main.css": "/static/css/main.7909b516.chunk.css",
+    "main.js": "/static/js/main.74392a98.chunk.js",
+    "main.js.map": "/static/js/main.74392a98.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.7302273d.js",
     "runtime~main.js.map": "/static/js/runtime~main.7302273d.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.6d48ee9c.chunk.js": "/static/js/2.6d48ee9c.chunk.js",
-    "static/js/2.6d48ee9c.chunk.js.map": "/static/js/2.6d48ee9c.chunk.js.map",
+    "static/js/2.4dc111ca.chunk.js": "/static/js/2.4dc111ca.chunk.js",
+    "static/js/2.4dc111ca.chunk.js.map": "/static/js/2.4dc111ca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dd9fbdd99dcf059240dc66c944f9c4fc.js": "/precache-manifest.dd9fbdd99dcf059240dc66c944f9c4fc.js",
+    "precache-manifest.b11503b670d2d72497ded01b2bc83a93.js": "/precache-manifest.b11503b670d2d72497ded01b2bc83a93.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.555ca855.chunk.css.map": "/static/css/main.555ca855.chunk.css.map",
+    "static/css/main.7909b516.chunk.css.map": "/static/css/main.7909b516.chunk.css.map",
+    "static/media/aws.svg": "/static/media/aws.220380e8.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.8c2a87ab.svg",
+    "static/media/css.svg": "/static/media/css.f2d9aa21.svg",
+    "static/media/docker.svg": "/static/media/docker.7781548f.svg",
+    "static/media/git.svg": "/static/media/git.9e6d36c9.svg",
+    "static/media/html.svg": "/static/media/html.02fd3b60.svg",
+    "static/media/js.svg": "/static/media/js.476b9664.svg",
+    "static/media/linux.svg": "/static/media/linux.4ca74eec.svg",
+    "static/media/mongo.svg": "/static/media/mongo.d1743525.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.86c73215.svg",
     "static/media/Home.css": "/static/media/pcandcoffe.e2244fcd.jpg",
-    "static/media/profile.jpg": "/static/media/profile.800d9a44.jpg"
+    "static/media/profile.jpg": "/static/media/profile.800d9a44.jpg",
+    "static/media/react.svg": "/static/media/react.c3798aca.svg"
   }
 }
